@@ -1,2 +1,4 @@
 # Algorithms
-Tool for solving a well-specified computational problems
+Algorithm is computational procedure that takes
+some value/s as input and produces some value/s as
+output
