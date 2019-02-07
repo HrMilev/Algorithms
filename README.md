@@ -1,2 +1,2 @@
 # Algorithms
-Tool for solving a well-specified computational problem
+Tool for solving a well-specified computational problems
