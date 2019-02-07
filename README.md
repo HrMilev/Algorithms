@@ -1,2 +1,2 @@
 # Algorithms
-Sort a sequence of numbers into nondecreasing order
+Tool for solving a well-specified computational problem
