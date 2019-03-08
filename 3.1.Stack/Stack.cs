@@ -43,8 +43,7 @@ public class Stack<T>
         }
         else
         {
-            pointer--;
-            return stackArray[pointer+1];
+            return stackArray[pointer--];
         }
 
     }
@@ -61,7 +60,7 @@ class MainClass
             stack.Push(i);
         }
         Console.WriteLine(stack.Peek());
-        for (int i = 1; i < 8; i++)
+        for (int i = 1; i < 7; i++)
         {
             stack.Pop();
         }
